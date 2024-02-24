@@ -3,10 +3,10 @@
     "short_name": "kalkulator",
     "icons": [
       {
-        "src": "./assets/icon-144.png",
+        "src": "./assets/ikona.png",
         "sizes": "144x144",
         "type": "image/png",
-        "purpose": "any"
+        "purpose": ""
       }
     ],
     "theme_color": "#FFFFFF",
