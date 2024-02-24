@@ -6,22 +6,7 @@
         "src": "./assets/icon-144.png",
         "sizes": "144x144",
         "type": "image/png",
-        "purpose": "any maskable"
-      },
-      {
-        "src": "./assets/icon-198.png",
-        "sizes": "198x198",
-        "type": "image/png"
-      },
-      {
-        "src": "./assets/icon-384.png",
-        "sizes": "384x384",
-        "type": "image/png"
-      },
-      {
-        "src": "./assets/icon-512.png",
-        "sizes": "512x512",
-        "type": "image/png"
+        "purpose": "any"
       }
     ],
     "theme_color": "#FFFFFF",
